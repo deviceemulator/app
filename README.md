@@ -1,2 +1,4 @@
 # app
-Device Emulator
+Device Emulator Pro
+website:
+https://deviceemulator.github.io/app/
